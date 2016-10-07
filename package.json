@@ -1,0 +1,17 @@
+{
+  "name": "wikisearch",
+  "version": "0.5.0",
+  "description": "Simple interface to wikipedia search and opensearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wikipedia"
+  ],
+  "author": "Michael Halle",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.14.0"
+  }
+}
